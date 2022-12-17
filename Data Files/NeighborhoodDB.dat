@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>NeighborhoodDB</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>fb3d14d7-6afc-4ef0-903d-26402fe7014b</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password></password>
+   <query>SELECT  opensooq_main.cities.`name`,
+opensooq_main.neighborhood.id,opensooq_main.neighborhood.`name`,opensooq_main.neighborhood.name_en,opensooq_main.neighborhood.cities_id
+FROM opensooq_main.cities
+INNER JOIN opensooq_main.neighborhood ON opensooq_main.neighborhood.cities_id=opensooq_main.cities.id where opensooq_main.cities.countries_id=12 and opensooq_main.cities.active=1 and opensooq_main.neighborhood.active=1;</query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <user></user>
+   <usingGlobalDBSetting>true</usingGlobalDBSetting>
+</DataFileEntity>

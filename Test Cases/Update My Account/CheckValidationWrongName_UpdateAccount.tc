@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CheckValidationWrongName_UpdateAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77c684a9-9cb0-49e6-a025-5d691064de15</testCaseGuid>
+</TestCaseEntity>

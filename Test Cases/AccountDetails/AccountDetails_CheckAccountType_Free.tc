@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AccountDetails_CheckAccountType_Free</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b35a61e-06d1-4014-83df-5335ec7d79aa</testCaseGuid>
+</TestCaseEntity>

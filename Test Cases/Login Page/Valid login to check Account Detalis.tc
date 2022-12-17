@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Valid login to check Account Detalis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3719a91-cc6d-43a2-b793-2225c44a8a1b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CheckValidationEmptyEmail_UpdateAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af4226aa-4e09-4d2a-8cd9-4dae3484a9fb</testCaseGuid>
+</TestCaseEntity>

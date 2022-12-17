@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CV_CheckCityAND_NH</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b45631a7-1ae4-4b43-95b2-7de13dcf8b89</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7b275aa6-349c-45fb-93cd-cd241bc624a9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'مادبا'</defaultValue>
+      <description></description>
+      <id>7b275aa6-349c-45fb-93cd-cd241bc624a9</id>
+      <masked>false</masked>
+      <name>userCity</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CheckValidationWrongEmail_UpdateAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>233683b2-5b50-4f48-950b-115ec6715f9f</testCaseGuid>
+</TestCaseEntity>
